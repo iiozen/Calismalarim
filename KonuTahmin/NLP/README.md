@@ -1,0 +1,1 @@
+### Model olan baslikModel300.joblib dosyası şu linkten indirilebilir: 

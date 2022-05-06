@@ -1,0 +1,1 @@
+# Kırık Hap Tespiti
