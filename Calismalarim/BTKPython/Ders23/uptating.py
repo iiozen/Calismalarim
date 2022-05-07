@@ -1,7 +1,7 @@
 import pymongo
 from bson.objectid import ObjectId
-
-myclient = pymongo.MongoClient("mongodb+srv://smail:vuH7hErZ0PYGN9i1@cluster0.7axku.mongodb.net/node-app?retryWrites=true&w=majority")
+from mongohesap import hesap
+myclient = pymongo.MongoClient(hesap)
 
 mydb = myclient["node-app"]
 mycollection = mydb['products']

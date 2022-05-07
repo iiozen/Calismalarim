@@ -1,8 +1,8 @@
 import pymongo
-
+from mongohesap import hesap
 
 # myclient = pymongo.MongoClient("mongodb://localhost:27017")
-myclient = pymongo.MongoClient("mongodb+srv://smail:vuH7hErZ0PYGN9i1@cluster0.7axku.mongodb.net/node-app?retryWrites=true&w=majority")
+myclient = pymongo.MongoClient(hesap)
 
 mydb = myclient["node-app"]
 mycollection = mydb["products"]
