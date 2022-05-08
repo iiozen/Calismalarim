@@ -14,4 +14,4 @@
 
 #### TTS5.wav ==> Eğitimdeki adım sayısının artması ses sentezini iyileştirir.
 
-## <span style="color:red">__Seslerin Groove Müzik uygulamasında dinlenmemesi gerekir. Groove müzikte dinlenince son kelimeler duyulmamaktadır. Audacity uygulamasıyla dinlenmesi en iyi sonucu verecektir.__</span>
+## `Seslerin Audacity uygulaması üzerinden dinlenilmesi tavsiye edilir. Diğer uygulamar üzerinden dinlenilen seslerde son hece veya harflerin duyulmaması olasıdır.`
