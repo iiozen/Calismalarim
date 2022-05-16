@@ -1,1 +1,0 @@
-### Mermi duvarın etrafından dolaşarak tıklanan bölgeye ilerler

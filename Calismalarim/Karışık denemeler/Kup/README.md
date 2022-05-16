@@ -1,1 +1,0 @@
-### Farenin sol orta ve sağ tuşları ile küp kontrol edilebilir

@@ -1,1 +1,0 @@
-### Eğitim için ve ekstra çalışmalarım
